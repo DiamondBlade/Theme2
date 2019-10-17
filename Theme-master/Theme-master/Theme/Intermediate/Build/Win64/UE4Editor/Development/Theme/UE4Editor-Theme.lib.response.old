@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Theme.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\ThemeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\Theme.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\ThemeCharacter.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\ThemeGameMode.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\ThemeHUD.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\ThemeProjectile.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\Theme.init.gen.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\ThemeCharacter.gen.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\ThemeGameMode.gen.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\ThemeHUD.gen.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\ThemeProjectile.gen.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\Default.rc2.res"
+/OUT:"C:\Users\crono\OneDrive\Documents\Unreal Projects\Theme\Intermediate\Build\Win64\UE4Editor\Development\Theme\UE4Editor-Theme.lib"
+/INCLUDE:IMPLEMENT_MODULE_Theme

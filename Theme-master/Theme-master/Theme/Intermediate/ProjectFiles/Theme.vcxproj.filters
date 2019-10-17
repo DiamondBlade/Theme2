@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Theme.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A5637EEA-B0CF-47D9-9EA7-A2B190AB71D8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Theme.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThemeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{01964D83-C6D5-4C87-83D3-C71F457E8607}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Theme">
+      <UniqueIdentifier>{96F7E066-55BF-4234-871E-930CA8984E8E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Theme\Theme.Build.cs">
+      <Filter>Source\Theme</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Theme\Theme.cpp">
+      <Filter>Source\Theme</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Theme\Theme.h">
+      <Filter>Source\Theme</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Theme\ThemeCharacter.cpp">
+      <Filter>Source\Theme</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Theme\ThemeCharacter.h">
+      <Filter>Source\Theme</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Theme\ThemeGameMode.cpp">
+      <Filter>Source\Theme</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Theme\ThemeGameMode.h">
+      <Filter>Source\Theme</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Theme\ThemeHUD.cpp">
+      <Filter>Source\Theme</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Theme\ThemeHUD.h">
+      <Filter>Source\Theme</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Theme\ThemeProjectile.cpp">
+      <Filter>Source\Theme</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Theme\ThemeProjectile.h">
+      <Filter>Source\Theme</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
